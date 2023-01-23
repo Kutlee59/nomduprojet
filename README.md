@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-<h2>npm install</h2>
+## npm install
 
-apres le clone du projet faite un <code>npm install</code>
+apres le clone du projet faite un ```npm install```
 
 
 ### `npm start`
