@@ -4,14 +4,7 @@ import './header.css'
 function Header() {
   return (
     <>
-    <h1>Header</h1>
-    <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul>
+   <h1>On a tous saboté</h1>
     </>
   )
 }
