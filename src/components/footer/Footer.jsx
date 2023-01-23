@@ -3,7 +3,7 @@ import './footer.css'
 
 function Footer() {
     return (
-        <div>footer</div>
+        <div class="footer">footer</div>
     )
 }
 export default Footer
